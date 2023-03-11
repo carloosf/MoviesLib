@@ -6,10 +6,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <Navbar>
-        
-      </Navbar>
-      <h2>Movies Lib</h2>
+      <Navbar />
       <Outlet />
     </div>
   )
