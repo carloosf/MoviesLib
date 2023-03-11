@@ -1,8 +1,8 @@
-# [MoviesLib](link do site)
+# MoviesLib (link do site)
 
 ## :page_facing_up: Sobre o Projeto
-- Este projeto trata-se de uma landing page desenvolvida no Visual Studio Code com a finalidade de pôr em prática meus conhecimentos em JS.
-- Criado em 00/00/2022
+- Este projeto trata-se de uma landing page desenvolvida no Visual Studio Code com a finalidade de pôr em prática meus conhecimentos em ReactJS.
+- Criado em 09/03/2023
 ---
 
 ## :framed_picture: Imagens do Projeto
