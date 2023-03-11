@@ -7,7 +7,7 @@
 
 ## :framed_picture: Imagens do Projeto
 
-![imagem-projeto-final](Screen-main.PNG)
+![imagem-projeto-final](Screen-main.png)
 
 ---
 ## :man_technologist:  Autor
