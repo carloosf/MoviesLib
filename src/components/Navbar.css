@@ -11,8 +11,29 @@
     padding: 1.6rem 2rem;
     background-color: var(--bg-color);
     box-shadow: .1px .03px 1.7px grey;
-
 }
+
+.LoginSearch{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+.loginIcon{
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.loginIcon:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.BiLogIn{
+    font-size: 1.3rem;
+}
+
 
 #navbar h2 a {
     display: flex;
