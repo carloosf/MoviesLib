@@ -24,7 +24,3 @@ dist-ssr
 *.sw?
 <<<<<<< HEAD
 =======
-
-
-*.env
->>>>>>> 8e3c892d6cd276d719f884cb4175401faae19dc6
