@@ -1,21 +1,24 @@
-*{
-    font-family: Helvetica;
+@import './global.css';
+
+* {
+    font-family: var(--font-default);
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
 body {
-    background-color: #000;
-    color: white;
+    background-color: var(--bg-color);
+    color: var(--text-color);
 }
 
 a {
     text-decoration: none;
-    color: #F7D354;
-    transition: .5s
+    color: var(--secundary-bg-color);
+    transition: .5s;
 }
 
 a:hover {
-    color: #b8930c;
+    color: gold;
 }

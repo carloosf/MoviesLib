@@ -5,6 +5,7 @@ import {
     BsWallet2,
     BsHourglassSplit,
     BsFillFileEarmarkTextFill
+    
 } from 'react-icons/bs'
 
 import MovieCard from "../components/MovieCard";
